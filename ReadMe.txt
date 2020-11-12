@@ -16,7 +16,7 @@ dataset to the model.since all the data came from indeed.com it allways follows 
 but something similar. if we get more diverse annotated data surely the model performs well. 
 
 Whats next : Get  more quality data and improve the model. Either we can manually annotate data but it takes more time and the will not completed
-within this short time.Also we can check another approches in nlp too like transformers etc.
+within  short time.Also we can check another approches in nlp too like transformers etc.
 
 The orginal coding performed on google colab and saved in colab ipynb format.Also a .py version is attached
 .please use colab for better performance.
